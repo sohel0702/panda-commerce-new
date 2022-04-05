@@ -1,6 +1,11 @@
 .container{
 margin-bottom: 100px;
+
 }
+.container-backpack{
+    margin-bottom: 100px;
+        
+    }
 .orange-bg{
     background-color: #fceae8;
 }
@@ -17,4 +22,24 @@ margin-bottom: 100px;
     border-radius: 8px;
     padding: 9px 20px;
     cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray ;
+    
+}
+.card-footer{
+    background-color:white;
+    border-top: none;
+}
+.card-group{
+    margin-bottom: 100px;
+}
+#Subscribe{
+height: 300px;
+}
+
+#Subscribe h6{
+    color: grey;
 }
